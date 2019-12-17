@@ -1,0 +1,7 @@
+os: osx
+osx_image: xcode11.2
+language: swift
+sudo: false
+xcode_project: Get It.xcodeproj
+xcode_destination: platform=macOS; OS=10.11
+podfile: Podfile

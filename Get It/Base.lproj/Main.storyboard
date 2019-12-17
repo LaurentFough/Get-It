@@ -996,7 +996,7 @@
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="161" id="KsI-Sv-g9Y"/>
                                     <constraint firstAttribute="width" constant="161" id="SEi-e2-ur6"/>
                                 </constraints>
-                                <buttonCell key="cell" type="squareTextured" title="Install/update software" bezelStyle="texturedSquare" alignment="center" imageScaling="proportionallyDown" inset="2" id="S9o-LZ-UyG">
+                                <buttonCell key="cell" type="squareTextured" title="Install/ Update software" bezelStyle="texturedSquare" alignment="center" imageScaling="proportionallyDown" inset="2" id="S9o-LZ-UyG">
                                     <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="system"/>
                                     <connections>
