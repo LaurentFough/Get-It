@@ -3,10 +3,10 @@ osx_image: xcode11.2
 language: swift
 sudo: false
 before_install:
-        - brew update
-        - brew install xctool
+  - brew update
+  - brew install xctool
 xcode_project: Get It.xcodeproj
 xcode_workspace: Get It.xcworkspace
 xcode_destination: platform=macOS; OS=10.11
-script: xctool -workspace 'Get It.xcworkspace' -scheme 'Get It'
+script: xctool -workspace 'Get It.xcworkspace' -scheme 'Get It' test
 podfile: Podfile
