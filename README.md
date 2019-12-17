@@ -47,7 +47,7 @@ You can submit a bug here on Github. Please provide the following:
 
 Also, open the Terminal app on your MacBook and issue the following command:
 
-```
+```shell
 cat /tmp/getit_logs
 ```
 
