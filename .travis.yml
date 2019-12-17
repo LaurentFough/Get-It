@@ -5,9 +5,9 @@ sudo: false
 before_install:
   - brew update
   - brew install xctool
-xcode_project: Get It.xcodeproj
+# xcode_project: Get It.xcodeproj # if specifying scheme, no need to specify project (or vice-versa)
 xcode_workspace: Get It.xcworkspace
 xcode_scheme: 'Get It'
 xcode_destination: platform=macOS; OS=10.11
-# script: xctool -workspace 'Get It.xcworkspace' -scheme 'Get It'
+# script: xctool -workspace 'Get It.xcworkspace' -scheme 'Get It' # deprecated
 podfile: Podfile
