@@ -8,5 +8,5 @@ before_install:
 xcode_project: Get It.xcodeproj
 xcode_workspace: Get It.xcworkspace
 xcode_destination: platform=macOS; OS=10.11
-script: xctool -workspace 'Get It.xcworkspace' -scheme 'Get It' test
+script: xctool -workspace 'Get It.xcworkspace' -scheme 'Get It'
 podfile: Podfile
