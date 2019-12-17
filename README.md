@@ -1,7 +1,7 @@
 # Get It
 A macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
 
-<img src="https://github.com/LaurentFough/Get-It/blob/master/ReadMe%20Resources/MainWindow.png?raw=true" height="400" width="325" /><img src="https://github.com/LaurentFough/Get-It/blob/master/ReadMe%20Resources/Settings.png?raw=true" height="400" />
+<img src="https://github.com/LaurentFough/Get-It/blob/master/ReadMe%20Resources/MainWindow.png?raw=true" height="325" width="325" /><img src="https://github.com/LaurentFough/Get-It/blob/master/ReadMe%20Resources/Settings.png?raw=true" height="400" />
 
 **Note**: Get It requires _Homebrew_. The required dependencies will be installed with _Homebrew_.
 
