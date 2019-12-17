@@ -1,13 +1,13 @@
 # Get It
 A macOS video/audio downloader. Think of it as a youtube downloader that works on many sites.
 
-<img src="https://github.com/Kevin-De-Koninck/Get-It/blob/master/ReadMe%20Resources/MainWindow.png?raw=true" height="400" /><img src="https://github.com/Kevin-De-Koninck/Get-It/blob/master/ReadMe%20Resources/Settings.png?raw=true" height="400" />
+<img src="https://github.com/LaurentFough/Get-It/blob/master/ReadMe%20Resources/MainWindow.png?raw=true" height="400" /><img src="https://github.com/LaurentFough/Get-It/blob/master/ReadMe%20Resources/Settings.png?raw=true" height="400" />
 
 **Note**: Get It requires _Homebrew_. The required dependencies will be installed with _Homebrew_.
 
 # Installation
 
-Download it [here](https://github.com/Kevin-De-Koninck/Get-It/releases/download/v0.6.1/Get.It.app.zip), unzip it and open it.
+Download it [here](https://github.com/LaurentFough/Get-It/releases/download/v0.7.1LF/Get.It.app.zip), unzip it and open it.
 To install the dependencies required to run the software, please open the settings in the app and click on 'Install/update software'. This will not update Get It, but it will update all dependencies.
 
 ## dependencies
